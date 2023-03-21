@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Dia>
+        <departamento>cuidado personal</departamento>
+        <localizacion>inicio del segundo piso</localizacion>
+        <productos>
+            <nombre>apositos</nombre>
+            <marca>bonte</marca>
+            <caracteristicas>superadherentes, superconfortables, suaves, transpilables, hipoalergenicos</caracteristicas>
+            <precio number="true">1.05</precio>
+            <presentacion>caja de 30 unidades</presentacion>
+            <oferta boolean="true">true</oferta>
+            <periodoVigencia>30/12/2022</periodoVigencia>
+            <periodoVigencia>10/01/2024</periodoVigencia>
+            <consumoHabitual boolean="true">false</consumoHabitual>
+            <adquirido boolean="true">true</adquirido>
+        </productos>
+        <productos>
+            <nombre>solucion para lentes de contacto</nombre>
+            <marca>hansaplast</marca>
+            <caracteristicas>solucion unica para limpieza y desinfeccion de todo tipo de lentes de contacto</caracteristicas>
+            <precio number="true">2.13</precio>
+            <presentacion>botella de 180 ml</presentacion>
+            <oferta boolean="true">false</oferta>
+            <periodoVigencia>10/01/2023</periodoVigencia>
+            <periodoVigencia>30/11/2023</periodoVigencia>
+            <consumoHabitual boolean="true">true</consumoHabitual>
+            <adquirido boolean="true">false</adquirido>
+            <instrucciones>inmediatamente despues de uitarse las lentes limpielas con 8 gotas de solucion</instrucciones>
+        </productos>
+    </Dia>
+    <Dia>
+        <departamento>verduras y hortalizas</departamento>
+        <localizacion>centro del primer piso</localizacion>
+        <productos>
+            <nombre>menestra de verduras</nombre>
+            <marca>vegecampo</marca>
+            <caracteristicas>natural fuente de proteinas</caracteristicas>
+            <precio number="true">1.19</precio>
+            <presentacion>bolsa de 1 kg</presentacion>
+            <oferta boolean="true">true</oferta>
+            <periodoVigencia>28/02/2023</periodoVigencia>
+            <periodoVigencia>28/06/2023</periodoVigencia>
+            <consumoHabitual boolean="true">true</consumoHabitual>
+            <adquirido boolean="true">true</adquirido>
+            <instrucciones>poner en agua con sal y en ebullicion de 10 a 12 minutos y luego eliminar el agua de la coccion y aderezar</instrucciones>
+        </productos>
+        <productos>
+            <nombre>patatas fritas</nombre>
+            <marca>McCain</marca>
+            <caracteristicas>forno julienne, corte fino, 171 kcl/100gr</caracteristicas>
+            <precio number="true">2.89</precio>
+            <presentacion>bolsa de 600gr</presentacion>
+            <oferta boolean="true">false</oferta>
+            <periodoVigencia>10/03/2023</periodoVigencia>
+            <periodoVigencia>28/06/2023</periodoVigencia>
+            <consumoHabitual boolean="true">false</consumoHabitual>
+            <adquirido boolean="true">false</adquirido>
+            <instrucciones>hornear por 12 minutos</instrucciones>
+        </productos>
+    </Dia>
+    <Ahorramas>
+        <departamento>carniceria</departamento>
+        <localizacion>derecha del primer piso</localizacion>
+        <productos>
+            <nombre>osobuco</nombre>
+            <unidadMedida>kg</unidadMedida>
+            <precio number="true">2.87</precio>
+            <oferta boolean="true">true</oferta>
+            <caducidad>10/03/2023</caducidad>
+            <caducidad>30/04/2023</caducidad>
+            <consumoHabitual boolean="true">true</consumoHabitual>
+            <adquirido boolean="true">false</adquirido>
+        </productos>
+        <productos>
+            <nombre>chuleta de ternera</nombre>
+            <unidadMedida>kg</unidadMedida>
+            <precio number="true">4.67</precio>
+            <oferta boolean="true">false</oferta>
+            <periodoVigencia>20/03/2023</periodoVigencia>
+            <periodoVigencia>30/05/2023</periodoVigencia>
+            <consumoHabitual boolean="true">false</consumoHabitual>
+            <adquirido boolean="true">true</adquirido>
+        </productos>
+    </Ahorramas>
+    <Ahorramas>
+        <departamento>el obrador</departamento>
+        <localizacion>izquierda del primer piso</localizacion>
+        <productos>
+            <nombre>rosquillas</nombre>
+            <unidadMedida>unidad</unidadMedida>
+            <precio number="true">1.75</precio>
+            <oferta boolean="true">true</oferta>
+            <periodoVigencia>18/03/2023</periodoVigencia>
+            <periodoVigencia>05/04/2023</periodoVigencia>
+            <consumoHabitual boolean="true">true</consumoHabitual>
+            <adquirido boolean="true">true</adquirido>
+        </productos>
+        <productos>
+            <nombre>roscon</nombre>
+            <unidadMedida>unidad</unidadMedida>
+            <precio number="true">2.00</precio>
+            <oferta boolean="true">false</oferta>
+            <periodoVigencia>20/03/2023</periodoVigencia>
+            <periodoVigencia>15/04/2023</periodoVigencia>
+            <consumoHabitual boolean="true">false</consumoHabitual>
+            <adquirido boolean="true">false</adquirido>
+        </productos>
+    </Ahorramas>
+</root>
